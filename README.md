@@ -24,3 +24,5 @@ In the initial data preparation phase, we performed the following tasks:
 
 2.Handling missing values.
 
+3.Data Cleaning and formatting.
+
